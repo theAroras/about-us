@@ -1,8 +1,8 @@
 # about-us
 
-## Questions that may be asked about *@theAroras*
+_**Disclaimer**: This file on our organization, **@theAroras**, by the name of **README.md**, was created, typed, and credited to by **amayarora**._
 
-_**Disclaimer**: These five questions have been answered by **amayarora**._
+## Questions that may be asked about *@theAroras*
 
 ### What exactly is this?
 
