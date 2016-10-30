@@ -1,6 +1,7 @@
 # about-us
 
-## Questions ### _(that maybe asked by the public)_
+## Questions 
+### _(that maybe asked by the public)_
 
 ### What exactly is this?
 
