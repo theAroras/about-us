@@ -30,9 +30,9 @@ _**Disclaimer**: This file on our organization, **@theAroras**, by the name of *
 
 ## What *@theAroras* consists of
 
-**amayarora** — _I am an admin of **@theAroras**. I have added two repositories to this organization: **my_game**, and this repository, **about-us**. I started using GitHub on Tuesday, October 4th, 2016, and have a total of 140+ commits this year._
+**amayarora** — _I am an admin of **@theAroras**. I have added two repositories to this organization: [**my_game**](https://github.com/theAroras/my_game), and this repository, [**about-us**](https://github.com/theAroras/about-us). I started using GitHub on Tuesday, October 4th, 2016, and have a total of 140+ commits this year._
 
-**aryamanarora** — _I, too, am an admin of **@theAroras**. I have contributed only one of my repositories to this organization, by the name of **2048-multiplayer**. I started using GitHub on 
+**aryamanarora** — _I, too, am an admin of **@theAroras**. I have contributed only one of my repositories to this organization, by the name of [**2048-multiplayer**](https://github.com/theAroras/2048-multiplayer). I started using GitHub on 
 
 ## Our mission that we must achieve as the *@theAroras*
 
