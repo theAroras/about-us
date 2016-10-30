@@ -1,7 +1,6 @@
 # about-us
 
-## Questions 
-### _(that maybe asked by the public)_
+## Questions that may be asked about *@theAroras*
 
 ### What exactly is this?
 
@@ -23,7 +22,7 @@
 
 > Did you happen to read this in our description for this organization, @theAroras? Anyway, dabbing is quite popular at our school we go to — It is basically when you have your hands are in such a position, as if you were “dabbing” your head inside a gigantic, metallic bucket, and your arms represented the edges of that designated gigantic bucket.
 
-## Our Mission
+## Our mission that we must achieve
 
 > We, as **@theAroras**, want to prove ourselves to create awesome repositories, Gists, Wikis, projects, issues, etc. on GitHub, despite the fact we are noob programmers. If a repository we have on our organization, @theAroras, is public, then we would like to make that particular repository the best repository we can make it, and make it very entertaining.
 
