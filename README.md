@@ -4,7 +4,7 @@
 
 ### What exactly is this?
 
-> This is just a simple declaration of **@theAroras**, our organization. Not too big, not too small.
+> This is just a simple declaration and / or clarification of **@theAroras**, our organization. Not too big, not too small.
 
 ### What does this organization exactly do?
 
