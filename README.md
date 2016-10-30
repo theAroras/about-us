@@ -18,7 +18,7 @@ _**Disclaimer**: This file on our organization, **@theAroras**, by the name of *
 
 ### I’m a noob programmer — Can I join this organization then?
 
-> Sorry, but we, @theAroras, will not invite anymore people, and, even if we did, we would only invite people who are related to us, and use GitHub.
+> Sorry, but we, @theAroras, will not invite anymore people, and, even if we did, we would only invite people who are related to us, and use GitHub as a place to store their code, and expressly for coding purposes.
 
 ### What is “dabbing” exactly?
 
