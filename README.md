@@ -2,6 +2,8 @@
 
 ## Questions that may be asked about *@theAroras*
 
+_**Disclaimer**: These five questions have been answered by **amayarora**._
+
 ### What exactly is this?
 
 > This is just a simple declaration and / or clarification of **@theAroras**, our organization. Not too big, not too small.
@@ -12,7 +14,7 @@
 
 ### Who is in this organization?
 
->We are, of course. No, I’m just kidding — I, **@amayarora**, and **@aryamanarora*** make up this whole, entire organization, @theAroras.
+>We are, of course. No, I’m just kidding — I, **@amayarora**, and **@aryamanarora** make up this whole, entire organization, @theAroras.
 
 ### I’m a noob programmer — Can I join this organization then?
 
