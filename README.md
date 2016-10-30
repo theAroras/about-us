@@ -12,7 +12,7 @@
 
 ### Who is in this organization?
 
->We are, of course. No, I’m just kidding — I, @amayarora, and @aryamanarora make up this whole, entire organization, @theAroras.
+>We are, of course. No, I’m just kidding — I, **@amayarora**, and **@aryamanarora*** make up this whole, entire organization, @theAroras.
 
 ### I’m a noob programmer — Can I join this organization then?
 
