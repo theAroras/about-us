@@ -20,9 +20,19 @@ _**Disclaimer**: This file on our organization, **@theAroras**, by the name of *
 
 > Sorry, but we, @theAroras, will not invite anymore people, and, even if we did, we would only invite people who are related to us, and use GitHub as a place to store their code, and expressly for coding purposes.
 
+### How many coding languages does everyone in this organization know?
+
+> Seven and counting. Specifically, I, @amayarora, know three coding languages: tons of **HTML**, some **CSS**, and very few I know of **Python**. On the other hand, my brother, @aryamanarora, knows four coding languages: tons of HTML, tons of CSS, some **C**, and some Python. He currently taking a computer science class introducing C, offered by **Harvard University**.
+
 ### What is “dabbing” exactly?
 
 > Did you happen to read this in our description for this organization, @theAroras? Anyway, dabbing is quite popular at our school we go to — It is basically when you have your hands are in such a position, as if you were “dabbing” your head inside a gigantic, metallic bucket, and your arms represented the edges of that designated gigantic bucket.
+
+## What *@theAroras* consists of
+
+**amayarora** — _I am an admin of **@theAroras**. I have added two repositories to this organization: **my_game**, and this repository, **about-us**. I started using GitHub on Tuesday, October 4th, 2016, and have a total of 140+ commits this year._
+
+**aryamanarora** — _I, too, am an admin of **@theAroras**. I have contributed only one of my repositories to this organization, by the name of **2048-multiplayer**. I started using GitHub on 
 
 ## Our mission that we must achieve as the *@theAroras*
 
