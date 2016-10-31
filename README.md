@@ -1,8 +1,8 @@
 # about-us
 
-_**Disclaimer**: This file on our organization, **@theAroras**, by the name of **README.md**, was created, typed, and credited to by **@amayarora**._
+_**Disclaimer**: This file on our organization, **[@theAroras](https://github.com/theAroras)**, by the name of **README.md**, was created, typed, and credited to by **@amayarora**._
 
-## Questions that may be asked about *[@theAroras](https://github.com/theAroras)*
+## Questions that may be asked about *@theAroras*
 
 ### What exactly is this?
 
