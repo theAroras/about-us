@@ -1,6 +1,6 @@
 # about-us
 
-_**Disclaimer**: This file on our organization, **[@theAroras](https://github.com/theAroras)**, by the name of **README.md**, was created, typed, and credited to by **@amayarora**._
+_**Disclaimer**: This file on our organization, **[@theAroras](https://github.com/theAroras)**, by the name of **[README.md](https://github.com/theAroras/about-us/blob/master/README.md)**, was created, typed, and credited to by **[@amayarora](https://github.com/amayarora)**._
 
 ## Questions that may be asked about *@theAroras*
 
@@ -14,7 +14,7 @@ _**Disclaimer**: This file on our organization, **[@theAroras](https://github.co
 
 ### Who is in this organization?
 
->We are, of course. No, I’m just kidding — I, **@amayarora**, and **@aryamanarora** make up this whole, entire organization, @theAroras.
+>We are, of course. No, I’m just kidding — I, **@amayarora**, and **[@aryamanarora](https://github.com/aryamanarora)** make up this whole, entire organization, @theAroras.
 
 ### Why was this organization created?
 
