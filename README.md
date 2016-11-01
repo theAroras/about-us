@@ -1,4 +1,4 @@
-# about_[theAroras](https://github.com/theAroras)
+# [about_[theAroras](https://github.com/theAroras)](https://github.com/theAroras/about_theAroras/blob/master/README.md)
 
 _**Disclaimer**: This file on our organization, **[@theAroras](https://github.com/theAroras)**, by the name of **[README.md](https://github.com/theAroras/about-us/blob/master/README.md)**, was created, typed, and credited to by **[@amayarora](https://github.com/amayarora)**._
 
