@@ -40,7 +40,7 @@ _**Disclaimer**: This file on our organization, **[@theAroras](https://github.co
 
 ## How to contribute to *@theAroras*
 
-In order to contribute to **@theAroras . . . Well, sorry, but this is currently in the making. You will be able to contribute to **@theAroras** once its Wiki is created, which is coming soon . . . 
+In order to contribute to **@theAroras** . . . Well, sorry, but this is currently in the making. You will be able to contribute to **@theAroras** once its Wiki is created, which is coming soon . . . 
 
 ## Our mission that we must achieve as the *@theAroras*
 
