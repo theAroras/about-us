@@ -16,6 +16,10 @@ _**Disclaimer**: This file on our organization, **[@theAroras](https://github.co
 
 >We are, of course. No, I’m just kidding — I, **@amayarora**, and **@aryamanarora** make up this whole, entire organization, @theAroras.
 
+### Why was this organization created?
+
+> So my brother, **@aryamanarora**, and I, **@amayarora**, could join forces! Basically, this organization, **@htheAroras**, was created so we, as brothers, can help each other with our code, and coding skills (**@aryamanarora** usually helps me more). *#HaveAHeartForCoding :heart::smile::shipit:*
+
 ### I’m a noob programmer — Can I join this organization then?
 
 > Sorry, but we, @theAroras, will not invite anymore people, and, even if we did, we would only invite people who are related to us, and use GitHub as a place to store their code, and expressly for coding purposes.
