@@ -26,7 +26,7 @@ _**Disclaimer**: This file on our organization, **[@theAroras](https://github.co
 
 ### How many coding languages does everyone in this organization know?
 
-> Seven and counting. Specifically, I, @amayarora, know three coding languages: tons of **HTML**, some **CSS**, and very few I know of **Python**. On the other hand, my brother, @aryamanarora, knows four coding languages: tons of HTML, tons of CSS, some **C**, and some Python. He currently taking a computer science class introducing C, offered by **Harvard University**.
+> Seven and counting. Specifically, I, @amayarora, know three coding languages: tons of **[HTML](https://en.m.wikipedia.org/wiki/HTML)**, some **[CSS](https://en.m.wikipedia.org/wiki/CSS)**, and very few I know of **[Python](https://en.m.wikipedia.org/wiki/Python)**. On the other hand, my brother, @aryamanarora, knows four coding languages: tons of HTML, tons of CSS, some **[C](https://en.m.wikipedia.org/wiki/C)**, and some Python. He is currently taking a computer science class introducing C, offered by **[Harvard University](https://en.m.wikipedia.org/wiki/Harvard)**.
 
 ### What is “dabbing” exactly?
 
