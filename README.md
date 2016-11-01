@@ -1,6 +1,6 @@
 # [about_[theAroras](https://github.com/theAroras)](https://github.com/theAroras/about_theAroras/blob/master/README.md)
 
-_**Disclaimer**: This file on our organization, **[@theAroras](https://github.com/theAroras)**, by the name of **[README.md](https://github.com/theAroras/about-us/blob/master/README.md)**, was created, typed, and credited to by **[@amayarora](https://github.com/amayarora)**._
+_**Disclaimer**: This file on our organization, **[@theAroras](https://github.com/theAroras)**, by the name of **[README.md](https://github.com/theAroras/about-us/blob/master/README.md)**, was created, typed, and credited to by **[@amayarora](https://github.com/amayarora)**._ Also, on the title, by clicking *about_*, you will be redirected to this **README.md**, and by clicking *theAroras*, you will then be redirected to our organization, **@theAroras**.
 
 ## Questions that may be asked about *@theAroras*
 
