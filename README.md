@@ -38,6 +38,10 @@ _**Disclaimer**: This file on our organization, **[@theAroras](https://github.co
 
 **aryamanarora** — _I, too, am an admin of **@theAroras**. I have contributed only one of my repositories to this organization, by the name of [**2048-multiplayer**](https://github.com/theAroras/2048-multiplayer), which has been forked by **[@es](https://github.com/es)**. I started using GitHub on Wednesday, June 25th, 2016, at have a total of 140+ commits this year._
 
+## How to contribute to *@theAroras*
+
+In order to contribute to **@theAroras . . . Well, sorry, but this is currently in the making. You will be able to contribute to **@theAroras** once its Wiki is created, which is coming soon . . . 
+
 ## Our mission that we must achieve as the *@theAroras*
 
 > We, as **@theAroras**, want to prove ourselves to create awesome repositories, Gists, Wikis, projects, issues, etc. on GitHub, despite the fact we are noob programmers. If a repository we have on our organization, @theAroras, is public, then we would like to make that particular repository the best repository we can make it, and make it very entertaining.
