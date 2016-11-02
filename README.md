@@ -20,7 +20,7 @@ _Also, on the title, by clicking `about`, you will be redirected to this **READM
 
 ### Why was this organization created?
 
-> So my brother, **@aryamanarora**, and I, **@amayarora**, could join forces! Basically, this organization, **@htheAroras**, was created so we, as brothers, can help each other with our code, and coding skills (**@aryamanarora** usually helps me more). *#HaveAHeartForCoding :heart::smile::shipit:*
+> So my brother, **@aryamanarora**, and I, **@amayarora**, could join forces! Basically, this organization, **@htheAroras**, was created so we, as brothers, can help each other with our code, and coding skills (**@aryamanarora** usually helps me more). *#HaveAHeartForCoding [#MadeWithCode](madewithcode.com) :heart::smile::shipit:*
 
 ### I’m a noob programmer — Can I join this organization then?
 
