@@ -48,4 +48,4 @@ _Also, on the title, by clicking `about`, you will be redirected to this **READM
 
 > We, as **@theAroras**, want to prove ourselves to create awesome repositories, Gists, Wikis, projects, issues, etc. on GitHub, despite the fact we are noob programmers. If a repository we have on our organization, @theAroras, is public, then we would like to make that particular repository the best repository we can make it, and make it very entertaining.
 
-Thank you for reading this **README.md**, and we, as @theAroras, very much appreciate it.
+Thank you for reading this **README.md**, and we, as **@theAroras**, very much appreciate it.
