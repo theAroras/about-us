@@ -42,7 +42,7 @@ _Also, on the title, by clicking `about`, you will be redirected to this **READM
 
 ## How to contribute to *@theAroras*
 
-> Sorry, but this feature, unfortunately, has not been released as yet. The Wiki of **@theAroras** is where you will be able to contribute to **@theAroras**, which is projected to be released by, or before, **Saturday, November 5th, 2016, at 11:59 P.M., E.S.T.** Thank you for reading this description, and we, as **@theAroras**, very much appreciate it.
+> **Wednesday, 11.02.2016** Sorry, but this feature, unfortunately, has not been released as yet. The Wiki of **@theAroras** is where you will be able to contribute to **@theAroras**, which is projected to be released by, or before, **Saturday, November 5th, 2016, at 11:59 P.M., E.S.T.** Thank you for reading this description, and we, as **@theAroras**, very much appreciate it.
 
 ## Our mission that we must achieve as *@theAroras*
 
