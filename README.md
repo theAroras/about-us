@@ -44,6 +44,8 @@ _Also, on the title, by clicking `about`, you will be redirected to this **READM
 
 > **Disclaimer _as of Wednesday, November 2nd, 2016_**: Sorry, but this feature, unfortunately, has not been released as yet. The Wiki of **@theAroras** is where you will be able to contribute to **@theAroras**, which is projected to be released by, or before, **Saturday, November 5th, 2016, at 11:59 P.M., E.S.T.** Thank you for reading this description, and we, as **@theAroras**, very much appreciate it.
 
+Today, as of **Friday, November 4th, 2016, at 5:34 P.M., E.S.T.**, you can now contribute to our organization, **@theAroras**, by entering the needed information on the sidebar by [clicking here](https://amayarora.github.io/)!
+
 ## Our mission that we must achieve as *@theAroras*
 
 > We, as **@theAroras**, want to prove ourselves to create awesome repositories, Gists, Wikis, projects, issues, etc. on GitHub, despite the fact we are noob programmers. If a repository we have on our organization, @theAroras, is public, then we would like to make that particular repository the best repository we can make it, and make it very entertaining.
