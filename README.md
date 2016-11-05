@@ -56,11 +56,17 @@ Well, great question: Depicted below this text, you have two options, giving you
 
 [Click here](https://github.com/theAroras/about_theAroras/blob/master/CONTRIBUTING.md) to view the **CONTRIBUTING.md** file of this repository, **about_theAroras**.
 
-* . . . or, you may do this option, depicted below this text . . . *
+_ . . . or, you may do this option, depicted below this text . . . _
 
 Read the **CONTRIBUTING.md** file directly on this **README.md** of this repository, **about_theAroras**.
 
 ### CONTRIBUTING.md
+
+#### Rules to contributing to *@theAroras*
+
+Depicted below this text, the following list depicts a few ground rules you should know as a contributor of our organization, **@theAroras**:
+
+1. **Create a _README.md_.** When creating a new file in a repository, located in this organization, **@theAroras**, always add a **README.md** before you start typing, explaining what the repository exactly is. A **LICENSE** is ignored; a **.gitignore** is optional.
 
 ## Our mission that we must achieve as *@theAroras*
 
