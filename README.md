@@ -42,9 +42,25 @@ _Also, on the title, by clicking `about`, you will be redirected to this **READM
 
 ## How to contribute to *@theAroras*
 
+### How do you contribute to this organization?
+
+Well, I am going to show you two responses to this question: one from **Wednesday, November 2nd, 2016**, which, by the way, is in the form of a disclaimer, and another from **Friday, November 4th, 2016**.
+
 > **Disclaimer _as of Wednesday, November 2nd, 2016_**: Sorry, but this feature, unfortunately, has not been released as yet. The Wiki of **@theAroras** is where you will be able to contribute to **@theAroras**, which is projected to be released by, or before, **Saturday, November 5th, 2016, at 11:59 P.M., E.S.T.** Thank you for reading this description, and we, as **@theAroras**, very much appreciate it.
 
-Today, as of **Friday, November 4th, 2016, at 5:34 P.M., E.S.T.**, you can now contribute to our organization, **@theAroras**, by entering the needed information on the sidebar by [clicking here](https://amayarora.github.io/)!
+> **Update _as of Friday, November 4th, 2016 @ 5:34 P.M., E.S.T._**: Today, you can now contribute to our organization, **@theAroras**, by entering the needed information on the sidebar by [clicking here](https://amayarora.github.io/)!
+
+### What are the rules that you need to know, as a contributor to this organization?
+
+Well, great question: Depicted below this text, you have two options, giving you the same results, that being you viewing our rules to contributing to **@theAroras**. Anyway, here are your two following, available options, depicted below this text:
+
+[Click here](https://github.com/theAroras/about_theAroras/blob/master/CONTRIBUTING.md) to view the **CONTRIBUTING.md** file of this repository, **about_theAroras**.
+
+* . . . or, you may do this option, depicted below this text . . . *
+
+Read the **CONTRIBUTING.md** file directly on this **README.md** of this repository, **about_theAroras**.
+
+### CONTRIBUTING.md
 
 ## Our mission that we must achieve as *@theAroras*
 
