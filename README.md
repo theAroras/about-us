@@ -66,7 +66,9 @@ Read the **CONTRIBUTING.md** file directly on this **README.md** of this reposit
 
 Depicted below this text, the following list depicts a few ground rules you should know as a contributor of our organization, **@theAroras**:
 
-1. **Create a _README.md_.** When creating a new file in a repository, located in this organization, **@theAroras**, always add a **README.md** before you start typing, explaining what the repository exactly is. A **LICENSE** is ignored; a **.gitignore** is optional.
+1. **Create a _README.md_.** When creating a new file in a repository, located in this organization, **@theAroras**, always add a **README.md** before you start typing, explaining what the repository exactly is. A **LICENSE** is sanitary; a **.gitignore** is optional.
+
+2. **Actively add links.** When starting a new section or paragraph, if you type text that is first introduced, and can also be put in the form of a link, be sure to make the particular text **bold**, and creating a [link](example@of.link) out of it. 
 
 ## Our mission that we must achieve as *@theAroras*
 
