@@ -56,7 +56,7 @@ Well, great question: Depicted below this text, you have two options, giving you
 
 [Click here](https://github.com/theAroras/about_theAroras/blob/master/CONTRIBUTING.md) to view the **CONTRIBUTING.md** file of this repository, **about_theAroras**.
 
-_ . . . or, you may do this option, depicted below this text . . . _
+_. . . or, you may do this option, depicted below this text . . ._
 
 Read the **CONTRIBUTING.md** file directly on this **README.md** of this repository, **about_theAroras**.
 
